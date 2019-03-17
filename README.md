@@ -19,7 +19,7 @@ BH 1750 เป็นเซนเซอร์ที่ใช้วัดควา
 
 เมื่อดาวน์โหลดไฟล์แล้วให้นำไปใส่ในไดเรคทอรี plugins ของ kidbright
 ```
-C:\\Users\username\AppData\Local\Kidbright\app-1.0.0\resources\app/kbide\plugins\weather_sensors\bh1750
+C:\\Users\username\AppData\Local\Kidbright\app-1.0.0\resources\app/kbide\plugins\
 ```
 ## ผู้เขียน
 
